@@ -1,6 +1,5 @@
 {
   "type": "minecraft:crafting_shaped",
-  "ingredient": "minecraft:redstone_ore",
   "pattern": [
     "ABA",
     "ABA",
